@@ -1,0 +1,18 @@
+* {
+    /*border: thin dashed purple;*/
+    margin: 0;
+}
+
+body {
+    padding: 5%;
+    width: 100%;
+}
+
+input {
+    border: thin solid grey;
+}
+
+.highlighted {
+    background-color: lightgrey;
+    color: blue;
+}
